@@ -1,0 +1,5 @@
+files:
+    basePath: "C:/Users/admin/Desktop/grails_emsi_24_25/grails-app/assets/images"
+    baseUrl: "http://localhost:8080/assets/"
+server:
+    port: 8081

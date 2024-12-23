@@ -1,0 +1,6 @@
+#Sun, 22 Dec 2024 17:23:49 +0100
+
+info.app.version=0.1
+info.app.name=grails_emsi_24_25
+grails.env=production
+info.app.grailsVersion=5.3.6
